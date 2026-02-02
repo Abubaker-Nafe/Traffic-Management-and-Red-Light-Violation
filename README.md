@@ -201,5 +201,3 @@ This repo is based on the team’s graduation project report and implementation.
 
 ---
 
-## License
-Choose a license that matches how you want others to use the code (MIT / Apache-2.0 / etc.).
